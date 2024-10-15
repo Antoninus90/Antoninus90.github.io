@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Welcome to my blog! I'm Javier Antonio Fregoso Avilés, a passionate estudiante de la Ingenieria en Sistemas Computacionales mis intereses, "analista de datos", "programador", "entusiasta del aprendizaje continuo"] con experiencia, "análisis de datos, desarrollo web y aprendizaje de nuevas tecnologías"].
+Welcome to my blog! I'm Javier Antonio Fregoso Avilés, a passionate estudiante de la Ingenieria en Sistemas Computacionales en la Unir México, mis intereses, "analista de datos", "programador", "entusiasta del aprendizaje continuo"] con experiencia, "análisis de datos, desarrollo web y aprendizaje de nuevas tecnologías"].
 
 ## More Information
 
