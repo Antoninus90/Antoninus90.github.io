@@ -4,11 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About Me
 
-### More Information
+Welcome to my blog! I'm Javier Antonio Fregoso Avilés, a passionate estudiante de la Ingenieria en Sistemas Computacionales mis intereses, "analista de datos", "programador", "entusiasta del aprendizaje continuo"] con experiencia, "análisis de datos, desarrollo web y aprendizaje de nuevas tecnologías"].
 
-A place to include any other types of information that you'd like to include about yourself.
+## More Information
+
+Mi objetivo es ayudar a otros a entender conceptos complejos de manera sencilla y fomentar un entorno de aprendizaje colaborativo. A través de tutoriales, artículos y recursos útiles, espero inspirar a más personas a explorar el mundo de la tecnología y la ciencia de datos.
+## Contact Me
+
+
+¡Gracias por visitar mi blog!
+
 
 ### Contact me
 
